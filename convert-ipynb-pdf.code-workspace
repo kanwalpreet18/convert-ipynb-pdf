@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ask-multiple-pdfs"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
